@@ -59,7 +59,8 @@
         * Math.sin(angle) 传入的是弧度。
     * 余弦。邻边与斜边的比。Math.cos(angle)
     * 正切。
-    * 反正弦、反余弦、反正切。  根据值算出角度。Math.asin Math.acos Math.atan Math.atan2 (大概要再看看这里）)
+    * 反正弦、反余弦、反正切。  根据值算出角度。Math.asin Math.acos Math.atan Math.atan2 (大概要再看看这里）
+
 ##### 3.3旋转
 * rorate
 * atan2计算弧度。
